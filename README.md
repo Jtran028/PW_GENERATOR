@@ -43,9 +43,10 @@ Following my logic:
 * Once the criteria in the functions were selected a "for loop" would then generate a password randomly using the Math Method
 * Had to consult in office hours with a TA on the "parsINT" method for my prompt -- if the user elected to write in a number nothing would happen.
 
-## References
+## LIVE LINK
+https://jtran028.github.io/PW_GENERATOR/
 
-The following websites were used as references:
-*https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
-*https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
-*https://dev.to/code_mystery/random-password-generator-using-javascript-6a
+## References
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+* https://dev.to/code_mystery/random-password-generator-using-javascript-6a
