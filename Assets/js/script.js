@@ -1,10 +1,10 @@
-var charLength = 8;
-var passARR = [];
 // Generated Arrays for Characters wanted that can be included in functions
 var numARR = ["0", "1", "3","4","5","6","7","8","9",];
 var lowCaseARR = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z",];
 var upCaseARR = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z",];
 var specARR = ["!","@","#","$","%","^","&","*","(",")","+","=","<",">","?",];
+// EMPTY ARRAY created to store values, I researched that it is better than using a NULL ARRAY as it is better to "return" to an empty array.
+var passARR = [];
 
 
 var generateBtn = document.querySelector("#generate");
